@@ -1,5 +1,3 @@
-What is the difference between a merge and a rebase?
-Git merge focuses on bringing the changes on one branch, or line of development, into another one. Typically this involves 
-merging a seperate development branch into the main one. Rebasing is under the same idea of applying changes on one branch to
-another, but there is difference. Git merge will apply changes to one branch (the target one), but the other branch (source) will remain the same.
-For git rebase, we are not preserving the history of the other branch. Rather, we are taking the new changes in the source branch and add them into the target branch. This eliminates the previous commits of the source branch, and gives the main branch are more consolidated history of commits.
+What is a remote repository?
+
+A remote repository exists on the Internet, on sites like GitHub or BitBucket. It can be accessed or cloned by the members of a software development team. Sfotware developers will clone the remote repo on their machine (local repo), and push their changes to the remote repo as they develop their projects.
