@@ -12,3 +12,11 @@ This effectively rewrites the project history by creating new commits for each c
 Merging is a non-destructive operation as the exisiting branches are not changed in any way.
 The effects on a project from rebasing are different from a merge in that rebasing does not allow you to see when upstream changes 
 were incorporated into the new branch.
+
+
+What is a remote repository?
+
+A remote repository is a version of a project or a bookmark of a project that is stored on a remote computer.
+A remote repository allows for several developers to make changes to their local repositories without affecting the remote or central repository
+that is seen by all developers. Developers use the remote repository for pushing their individual changes to the remote and pulling the collective 
+changes made by everyone on the remote to their local respository. 
