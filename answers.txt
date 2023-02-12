@@ -1,7 +1,13 @@
-Merge vs Rebase
+1. Merge vs Rebase
 
 A merge combines changes from two or more branches into a single branch by creating a new merge commit. 
 This new commit records the fact that the changes from one branch have been added to another branch. 
 
 A rebase, on the other hand, reapplies a branch's changes on top of another branch. This results in a linear history.
 It is as if the changes made in the target branch at that time were made in the orig source . 
+
+
+2. Remote Repository
+
+A remote repository is a version of one's project or code that is hosted on a server/Internet.
+You can have multiple remote repositories with different read/write permissons. 
