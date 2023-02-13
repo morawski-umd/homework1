@@ -3,3 +3,7 @@ A merge lets you merge commit distinctive branches in Git.
 Rebase allows you to extend the commits to the current branch.
 Rebasing re-writes a branch's history by creating new commits as 
 an extension to the original branch.
+
+What is a remote repository?
+A remote repository is a directory with files/code that are stored/hosted 
+by an external network or the internet.
