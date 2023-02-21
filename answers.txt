@@ -1,3 +1,7 @@
 What is the difference between a merge and a rebase?
 A merge is non-destructive, and askes for individual conflicts to be resolved as the current fork is incorporated into main.
 A rebase on the other hand, essentially commits all those changes ontop of the main branch, which can be destructive, but gives a linear edit history.
+
+What is a remote repository?
+A remote repository is an online copy of your code base, that keeps track of version history, and allows for multiple people to work on it, and is
+the basis of git.
