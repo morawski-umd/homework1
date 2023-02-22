@@ -4,3 +4,7 @@ Both involve working with the branches of a repository. When you're working on a
 
 Note: I tried to answer this from memory as a test of what I've learned, and I have no idea what I'm talking about. I'm gonna leave it as is. 
 
+
+What is a remote repository?
+
+A remote repository is a git repository that's hosted on the internet or another network instead of your computer. 
