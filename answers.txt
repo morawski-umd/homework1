@@ -1,0 +1,6 @@
+What is the difference between a merge and a rebase?
+
+Both involve working with the branches of a repository. When you're working on a branch and want to update the base of the branch (the snapshot of the repository from when you branched out) to the latest version, you use git rebase. When you want to merge two different branches together into one functional branch (such as the main branch) use git merge.
+
+Note: I tried to answer this from memory as a test of what I've learned, and I have no idea what I'm talking about. I'm gonna leave it as is. 
+
