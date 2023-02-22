@@ -1,0 +1,14 @@
+What is the difference between a merge and a rebase?
+
+A git merge is combining two files that may have been written by different
+people and if they differ, a merge conflict will appear in which case a
+conflict file appears.
+
+A git rebase is essentially a command that updates the start of your current
+branch to an update that happened after you branched out.
+
+What is a remote repository?
+
+The remote repository is the repository that everyone works on collaboratively
+and is hosted on a server or a cloud service. People push their changes to
+this remote repository and get it accepted or rejected.
