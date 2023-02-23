@@ -1,2 +1,2 @@
-What is the difference between a merge and a rebase?
-The difference between git merge and git rebase is that using git merge will have all the commits on the feature branch combined to a single commit in the main branch while using git rebase will preserve the number of commits when adding to the main branch.
+What is a remote repository?
+The remote repository is a central online repository that is seen by several collaborators. It allows multiple developers to clone into their local environment and work on them to update the remote repository.
