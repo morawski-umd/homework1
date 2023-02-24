@@ -1,0 +1,6 @@
+What is the difference between a merge and a rebase?
+
+When a fork is made, there is a new branch created. This branch can hold files, but then has to be merged back into the master branch after verification
+and completion. Rebasing is for making it look as though a branch was forked from a different commit than the main one or the one originally forked from. 
+So the main difference between a merge and commit is that a merge adds files to the master branch, while a rebase updates the start of a branch to a
+different commit than originally forked from.
