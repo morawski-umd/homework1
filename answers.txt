@@ -1,0 +1,1 @@
+A merge creates a new commit with changes from both branches. A rebase replays the changes from one branch on top of another branch
