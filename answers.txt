@@ -4,3 +4,9 @@ When a fork is made, there is a new branch created. This branch can hold files, 
 and completion. Rebasing is for making it look as though a branch was forked from a different commit than the main one or the one originally forked from. 
 So the main difference between a merge and commit is that a merge adds files to the master branch, while a rebase updates the start of a branch to a
 different commit than originally forked from.
+
+What is a remote repository?
+
+A remote repository is a collaborative space for coding. Some people may have a local repository, but they can commit code they are trying to a share to
+a remote repository so as to include the collaborative aspect. A remote repository has a history to it, which can be useful for the software development
+process.
