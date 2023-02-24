@@ -1,0 +1,8 @@
+What's the difference between a merge and a rebase?
+
+Merge is used to combine two branches and integrate updated changes into the local repo to the working directory. Rebase updates the start of your branch to a later
+commit that happpened after you branched out
+
+Rebase: If you want to update the start of your branch to a later commit that happend after you branched out
+
+Merge: integrate those updated changes in the local repo to the working directory
