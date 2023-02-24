@@ -6,3 +6,8 @@ commit that happpened after you branched out
 Rebase: If you want to update the start of your branch to a later commit that happend after you branched out
 
 Merge: integrate those updated changes in the local repo to the working directory
+
+
+What is a remote repository?
+
+Remote repos are versions of your project that are hosted on the network. You work on your local repo, and you update your work by pushing to the local repo.
