@@ -1,0 +1,4 @@
+What is the difference between a merge and a rebase?
+merge is allows to mege branches from git, rebasee is allows developers to integrate from one brane to another
+What is a remote repository?
+Remote repositories are versions of your project that are hosted on the Internet or network somewhere. 
