@@ -1,0 +1,2 @@
+What is a remote repository?
+Answer: It is a repository where if several people contribute to a project they can make changes to the project and see what each other commits. The code changes for everyone if someone changes it, commits it, and pushes it. It is a great way to collaborate on a project. 
