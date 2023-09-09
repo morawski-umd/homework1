@@ -1,7 +1,4 @@
 What is a remote repository?
-A remote repository is a centralized storage site for versioned code and project 
-data that is often housed on a server or cloud-based platform. It allows several 
-developers to collaborate by offering a shared, up-to-date version of the project's 
-history and files, allowing contributors to submit changes and pull updates from the 
-remote repository. Popular remote repository hosting services such as GitHub and GitLab 
-have evolved into indispensable tools for software development, enabling effective cooperation and code management.
+A remote repository is where a person can access their work from anywhere. 
+Basically, the person can edit their projects such as in Git Hub. Anyone can upload their project from any part
+of the world and have their groupmate have the updated version of their work. This a remote repository.
