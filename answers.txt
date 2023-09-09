@@ -1,5 +1,3 @@
-A *merge* combines two different branches of a repository. This can be a local versus remote repository, or merging two different branches. 
+What is a remote repository?
 
-A *rebase* rewrites the history of a branch by updating the apparent start of a branch to a different commit. This can be used to change or erase revision history. 
-For example, two merged branches could be rebased so it looks like `branchA` and `branchB`'s work happened sequentially, where they were actually developed independently and then 
-merged together.
+A *remote repository* is the central, online repository all collaborators on a project see. You can think of like the difference between a client and server -- local is a repository on your client, while the remote is the repository on the server.
