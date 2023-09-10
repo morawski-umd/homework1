@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A remote repository is a workspace that is housed somewhere other than the local machine, like the web. Developers generally write code on their local machine, then push to remote when ready. Usually, code is shared on a remote repository and then accessed, read, and modified by others.
