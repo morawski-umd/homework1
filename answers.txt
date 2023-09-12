@@ -1,0 +1,2 @@
+What is the difference between a merge and a rebase?
+Merge is connecting a branch to the main. Rebase is setting the start of your branch to a different version on the main. 
