@@ -1,0 +1,2 @@
+What is a remote repository?
+A remote git repository is a version control server hosted somewhere else on the internet where yourproject code and history are being stored.
