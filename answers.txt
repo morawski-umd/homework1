@@ -1,2 +1,2 @@
-What is a remote repository?
-A remote repository in Git is a repository that exists on a separate server or location from your local repository.
+What is the difference between a merge and a rebase?
+merge combines the changes from one branch into another, creating a new commit that has two parent commits. A rebase, on the other hand, moves or reapplies the changes from one branch onto another branch's tip
