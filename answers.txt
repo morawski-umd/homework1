@@ -1,0 +1,5 @@
+What is the difference between a merge and a rebase?
+
+    When there are two different branches that you want to combine, merging would point both of the ends to a new change that implements these changes.
+
+    Rebase, however, rewrites these two branches into one and then points that one branch to the new change so everything is linear.
