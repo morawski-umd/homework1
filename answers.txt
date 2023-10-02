@@ -1,6 +1,4 @@
-What is the difference between a merge and a rebase?
 
-Merging preserves the original commit history, creates a new merge commit, and is suitable for collaborative workflows with less risk of conflicts. On the other hand, rebasing rewrites commit history to create a clean, linear history.
 
 What is a remote repository?
 
