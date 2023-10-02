@@ -1,1 +1,4 @@
+What is the difference between a merge and a rebase?
+
+When you merge, you keep the history as is, adding a new merge commit. With rebase, you rearrange commits to make the history look cleaner by placing them at the end of another branch.
 
